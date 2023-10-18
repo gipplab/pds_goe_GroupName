@@ -9,6 +9,7 @@ Here are some more resources on how to format a markdown file for your project r
 - [QuickRef Markdown Cheatsheet](https://quickref.me/markdown)
 - [DevHints Markdown Cheatsheet](https://devhints.io/markdown)
 
+One example of a previous project repository can be found [here](https://gitlab.gwdg.de/alrun.naake/caterpillar). Please note that some details of the repository and project structure have changed in the meantime, however, this might give you a rough idea on how to structure your work.
 ----
 ## Description
 
