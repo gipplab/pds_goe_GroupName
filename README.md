@@ -89,6 +89,14 @@ Here, you should provide a group name you want to be referred to as, as well as 
 Additionally, define a group leader, i.e. one person in your group that is the primary contact if tutors want to communicate with your group.
 Also mention here which tutor is assigned to your project.
 
+Example:
+- Group name: 
+- Group code: 
+- Group repository: 
+- Tutor responsible:  
+- Group team leader: 
+- Group members: 
+
 ----
 ## Acknowlegdments
 
