@@ -95,7 +95,12 @@ Example:
 - Group repository: 
 - Tutor responsible:  
 - Group team leader: 
-- Group members: 
+- Group members:
+
+Include also the (detailed) contribution of each group member to the development of the project.
+
+Example:
+**Member A**: Developed the data structure of the project. Helped _Member B_ on the web interface and user management. Refactoring on components X, Y, and Z. Responsible for the unit tests in P ant T.
 
 ----
 ## Acknowlegdments
