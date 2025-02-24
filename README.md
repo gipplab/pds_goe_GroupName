@@ -67,6 +67,32 @@ I.e., what kinds of visual representations are suitable for your project?
 Will they be included in a dashboard-like part of your interface, or non-interactive infographics?
 With what libraries will you implement this?
 
+### Other (Specify if applicable):
+Did you come up with a creative idea to include other functionalities not covered by those above? 
+Explain what you did, why this is useful for your project and how you achieved it.
+This point has to be agreed on in advance with you tutor.
+
+----
+### Table for self-check
+
+Please make sure to include and fill out the following table for monitoring your progress and to ease the evalutation by the tutors.
+
+| Category                  | Details                                                                        | Mark with ✔️ |
+|:--------------------------|:-------------------------------------------------------------------------------|--------------|
+| 1. Source                    | High-quality dataset                                                        |     ...      |
+|                              | Quality control / cleaning                                                  |              |
+| 2. Data Storage and Handling | Management system                                                           |              |
+|                              | No plaintext passwords                                                      |              |
+| 3. User Management           | Login with username, pw                                                     |              |
+|                              | Four user accounts userID, name, user_name, and password, one admin         |              |
+|                              | Logout with timeout                                                         |              |
+| 4. Interface                 | CLI, GUI or Web interface for users                                         |              |
+|                              | Extensive interface functions (account management, queries, analysis, help) |              |
+| 5. Statistical Analysis      | Interactive statistics area                                                 |              |
+|                              | Basic statistics                                                            |              |
+| 6. Visualisations            | Visualizations displayed or saved                                           |              |
+| 7. Other                     | All aspects that we agreed on with the tutor                                |              |
+
 ----
 ## Installation and Usage
 
