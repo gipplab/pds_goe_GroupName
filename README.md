@@ -73,9 +73,9 @@ Explain what you did, why this is useful for your project and how you achieved i
 This point has to be agreed on in advance with you tutor.
 
 ----
-### Table for self-check
+### Table for self-check (required only for custom project)
 
-Please make sure to include and fill out the following table for monitoring your progress and to ease the evalutation by the tutors.
+Please make sure to include and fill out the following table for monitoring your progress and to ease the evalutation by the tutors in case you chose the custom project. For the default project, you are free to adapt the table to the respective requirements.
 
 | Category                  | Details                                                                        | Mark with ✔️ |
 |:--------------------------|:-------------------------------------------------------------------------------|--------------|
@@ -126,7 +126,7 @@ Example:
 Include also the (detailed) contribution of each group member to the development of the project.
 
 Example:
-**Member A**: Developed the data structure of the project. Helped _Member B_ on the web interface and user management. Refactoring on components X, Y, and Z. Responsible for the unit tests in P ant T.
+**Member A**: Developed the data structure of the project. Helped _Member B_ on the web interface and user management. Refactoring on components X, Y, and Z. Responsible for the unit tests in P and T.
 
 ----
 ## Acknowlegdments
