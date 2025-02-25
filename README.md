@@ -73,25 +73,63 @@ Explain what you did, why this is useful for your project and how you achieved i
 This point has to be agreed on in advance with you tutor.
 
 ----
-### Table for self-check (required only for custom project)
+### Table for self-check
 
-Please make sure to include and fill out the following table for monitoring your progress and to ease the evalutation by the tutors in case you chose the custom project. For the default project, you are free to adapt the table to the respective requirements.
+Please make sure to include and fill out one of the following tables according to the project type you chose. This is for monitoring your progress and to ease the evalutation by the tutors. Please note that this table is for guidance only, and in case of any discrepancies, the project description document shall take precedence.
 
-| Category                  | Details                                                                        | Mark with ✔️ |
-|:--------------------------|:-------------------------------------------------------------------------------|--------------|
-| 1. Source                    | High-quality dataset                                                        |     ...      |
-|                              | Quality control / cleaning                                                  |              |
-| 2. Data Storage and Handling | Management system                                                           |              |
-|                              | No plaintext passwords                                                      |              |
-| 3. User Management           | Login with username, pw                                                     |              |
-|                              | Four user accounts userID, name, user_name, and password, one admin         |              |
-|                              | Logout with timeout                                                         |              |
-| 4. Interface                 | CLI, GUI or Web interface for users                                         |              |
-|                              | Extensive interface functions (account management, queries, analysis, help) |              |
-| 5. Statistical Analysis      | Interactive statistics area                                                 |              |
-|                              | Basic statistics                                                            |              |
-| 6. Visualisations            | Visualizations displayed or saved                                           |              |
-| 7. Other                     | All aspects that we agreed on with the tutor                                |              |
+#### Default Project
+
+| Category                     | Details                                                                           | Mark with ✔️ |
+|:-----------------------------|:----------------------------------------------------------------------------------|--------------|
+| 1. Input Data                | Read data from text file “chartIn.txt”                                            |     ...      |
+| 2. Login/Logout              | Login via an interface (e.g., web, local)                                         |              |
+|                              | Four user accounts userID, name, user_name, and password, one admin               |              |
+|                              | No plaintext passwords                                                            |              |
+|                              | Logout with timeout and thank you message                                         |              |
+| 3. Display Seats             | Display the seat chart with letters and symbols                                   |              |
+|                              | Mark occupied seats                                                               |              |
+|                              | Logout with timeout                                                               |              |
+| 4. Reserve/Cancel Seats      | Users can reserve available seats                                                 |              |
+|                              | The admin can cancel reservations                                                 |              |
+| 5. Statistics                | The system offers a statistics area for admin users                               |              |
+|                              | Statistics can be saved into a text file                                          |              |
+| Always mandatory             | Project proposal with incorporated feedback from tutor                            |              |
+|                              | GitHub repo with sensible commit messages, template README, contributions section |              |
+|                              | Frequent commenting                                                               |              |
+|                              | Docstrings for every function/class                                               |              |
+|                              | Testing of relevant functionalities to avoid crashing                             |              |
+|                              | Help page for system                                                              |              |
+|                              | Milestone presentation                                                            |              |
+|                              | AI-Usage Cards                                                                    |              |
+
+
+#### Custom Project
+
+Remember that for the custom project, 4 out of the 7 categories need fulfillment.
+
+| Category                     | Details                                                                           | Mark with ✔️ |
+|:-----------------------------|:----------------------------------------------------------------------------------|--------------|
+| 1. Source                    | High-quality dataset                                                              |     ...      |
+|                              | Quality control / cleaning                                                        |              |
+| 2. Data Storage and Handling | Management system                                                                 |              |
+|                              | No plaintext passwords                                                            |              |
+| 3. User Management           | Login with username, pw                                                           |              |
+|                              | Four user accounts userID, name, user_name, and password, one admin               |              |
+|                              | Logout with timeout                                                               |              |
+| 4. Interface                 | CLI, GUI or Web interface for users                                               |              |
+|                              | Extensive interface functions (account management, queries, analysis, help)       |              |
+| 5. Statistical Analysis      | Interactive statistics area                                                       |              |
+|                              | Basic statistics                                                                  |              |
+| 6. Visualisations            | Visualizations displayed or saved                                                 |              |
+| 7. Other                     | All aspects that we agreed on with the tutor                                      |              |
+| Always mandatory             | Project proposal with incorporated feedback from tutor                            |              |
+|                              | GitHub repo with sensible commit messages, template README, contributions section |              |
+|                              | Frequent commenting                                                               |              |
+|                              | Docstrings for every function/class                                               |              |
+|                              | Testing of relevant functionalities to avoid crashing                             |              |
+|                              | Help page for system                                                              |              |
+|                              | Milestone presentation                                                            |              |
+|                              | AI-Usage Cards                                                                    |              |
 
 ----
 ## Installation and Usage
